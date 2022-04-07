@@ -1,0 +1,25 @@
+.article button {
+  background-color: rgb(245, 8, 8);
+  float: right;
+  margin-top: -9%;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  padding: 5px;
+  color: whitesmoke;
+}
+.article h3 {
+  color: whitesmoke;
+  letter-spacing: 5px;
+  font-style: oblique;
+  font-family: sans-serif;
+  text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.6);
+}
+.article p {
+  color: whitesmoke;
+  letter-spacing: 5px;
+  font-style: oblique;
+  font-family: sans-serif;
+  text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.6);
+}
